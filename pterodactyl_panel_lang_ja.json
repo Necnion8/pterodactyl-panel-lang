@@ -1,8 +1,8 @@
 {
-  "activity/auth.fail": "Failed log in",
-  "activity/auth.success": "Logged in",
-  "activity/auth.password-reset": "Password reset",
-  "activity/auth.reset-password": "Requested password reset",
+  "activity/auth.fail": "ログインに失敗",
+  "activity/auth.success": "ログインしました",
+  "activity/auth.password-reset": "パスワードリセット",
+  "activity/auth.reset-password": "パスワードリセットをリクエスト",
   "activity/auth.checkpoint": "Two-factor authentication requested",
   "activity/auth.recovery-token": "Used two-factor recovery token",
   "activity/auth.token": "Solved two-factor challenge",
